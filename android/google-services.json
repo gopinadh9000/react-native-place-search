@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360733457822",
+    "project_id": "place-search-3510b",
+    "storage_bucket": "place-search-3510b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360733457822:android:a4d7b7f77243beaea26a8f",
+        "android_client_info": {
+          "package_name": "com.appplacesearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDULX9j-OuJrfGEAiuObNoJjaEj13Qomc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
